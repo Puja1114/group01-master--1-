@@ -12,45 +12,24 @@ import {
 
 const Items = [
   {
-    icon: <Bootstrap />,
-    title: "Bootstrap Title",
-    description: "Bootstrap description paragraph.",
-  },
-  {
-    icon: <Calendar3 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-
-  {
-    icon: <CpuFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <GeoFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
     icon: <House />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    title: "Home",
+    description: "Welcome Home",
   },
   {
-    icon: <Speedometer2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <EraserFill />,
+    title: "Erase",
+    description: "Erase your mistake easily and digitally",
   },
   {
-    icon: <Toggles2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <BrushFill />,
+    title: "Brush",
+    description: "Enjoy while you draw",
   },
   {
-    icon: <Tools />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <Facebook />,
+    title: "Facebook",
+    description: "Social Media",
   },
 ]
 

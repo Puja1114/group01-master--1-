@@ -9,26 +9,24 @@ const Hero = () => {
           <Image
             className="d-block mx-lg-auto img-fluid shadow"
             style={{ borderRadius: "10px" }}
-            filename="blog1.jpg"
+            filename="front.jpg"
             alt="hero"
           />
         </div>
         <div className="col-lg-6">
           <h1 className="fat-text lh-1 mb-3">
-            Responsive left-aligned hero with image
+            BRAINZONE
           </h1>
           <p className="lead">
-            Quickly design and customize responsive mobile-first sites with
-            Bootstrap, the world’s most popular front-end open source toolkit,
-            featuring Sass variables and mixins, responsive grid system,
-            extensive prebuilt components, and powerful JavaScript plugins.
+            A quiz can teach anything to your students. From primary school to university 
+            ,quizzes make education more engaging and fun.
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <button
               type="button"
               className="btn btn-primary shadow px-4 me-md-2"
             >
-              Explore
+              Let's begin
             </button>
           </div>
         </div>

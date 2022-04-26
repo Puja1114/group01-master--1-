@@ -44,7 +44,7 @@ class Header extends React.Component {
       >
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            PROJECT2022
+            GROUP-1
           </a>
           <button
             className="navbar-toggler"
@@ -76,6 +76,12 @@ class Header extends React.Component {
 
               <Link className="fw-bold" to="/blog">
                 <li className="btn text-warning fw-bold"> Blog</li>
+              </Link>
+              <Link className="fw-bold" to="/quiz">
+                <li className="btn text-warning fw-bold"> Quiz</li>
+              </Link>
+              <Link className="fw-bold" to="/draw">
+                <li className="btn text-warning fw-bold"> Draw</li>
               </Link>
             </ul>
             <div className="snipcart-summary">
