@@ -5,25 +5,25 @@ import Image from "../Images/Images"
 
 const Items = [
   {
-    name: "member1",
+    name: "Aditi Rai",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member2",
+    name: "Pragya Ranjan",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member3",
+    name: "Puja Rani",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member4",
+    name: "Tamanna Visu",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
